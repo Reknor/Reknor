@@ -1,4 +1,4 @@
-Github profile under development
+I'm currently learning .NET (C#, Entity Framework Core, MVC) and Microsoft SQL Server.
 
 <!--
 **Reknor/Reknor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
